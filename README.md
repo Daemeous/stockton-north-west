@@ -23,6 +23,7 @@ Live: **https://daemeous.github.io/stockton-north-west/**
 | Bassetlaw | https://daemeous.github.io/bassetlaw/ |
 | East Grinstead and Uckfield | https://daemeous.github.io/east-grinstead-uckfield/ |
 | Dunstable and Leighton Buzzard | https://daemeous.github.io/dunstable-leighton-buzzard/ |
+| Staffordshire Moorlands | https://daemeous.github.io/staffordshire-moorlands/ |
 
 Related project — **[Pothole Watch](https://github.com/Daemeous/stafford-potholes)**, same visual style, separate Sheet/Apps Script backend.
 
